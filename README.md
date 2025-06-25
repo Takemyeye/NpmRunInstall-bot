@@ -23,29 +23,19 @@ A Telegram bot that lets you **search** and **download audio** from YouTube by l
 #### bash
 
 ```
-git clone https://github.com/your-username/NpmRunInstall_bot.git
+git clone https://github.com/Takemyeye/NpmRunInstall_bot.git
 
 cd NpmRunInstall_bot
 ```
 
 ### 2. Install Dependencies
 ```
-bash
-
-Copy
-
 Edit
 
 npm install
 ```
 #### 🏃‍♂️ Run the Bot
 ```
-bash
-
-Copy
-
-Edit
-
 node bot.js
 ```
 The bot will clean up any old audio files, start polling, and respond to messages.
