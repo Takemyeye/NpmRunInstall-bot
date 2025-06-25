@@ -30,8 +30,6 @@ cd NpmRunInstall_bot
 
 ### 2. Install Dependencies
 ```
-Edit
-
 npm install
 ```
 #### 🏃‍♂️ Run the Bot
@@ -40,7 +38,7 @@ node bot.js
 ```
 The bot will clean up any old audio files, start polling, and respond to messages.
 
-#### 📦 Dependencies macOS
+#### 📦 Dependencies
 node-telegram-bot-api
 
 yt-search
